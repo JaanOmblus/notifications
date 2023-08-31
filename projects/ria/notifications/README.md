@@ -1,6 +1,6 @@
 # Routing
 
-Notifications is a npm library that takes the language, apiGw URL and notifications enabled boolean as inputs and generates a veera global notification from available correct notifications set in the notify application (https://notify-fe.{{env}}.riaint.ee/teavitused). 
+Notifications is a npm library that takes the language, apiGw URL and notifications enabled boolean as inputs and generates a veera global notification from available correct notifications set in the notify application (https://notify-fe.{{env}}.riaint.ee/teavitused).
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
